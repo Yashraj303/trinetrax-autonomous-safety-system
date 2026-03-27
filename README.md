@@ -1,4 +1,4 @@
-> 🚨 TRINETRAX is not a monitoring system.  
+> 🚨 TRINETRAX is not just a monitoring system.  
 > It is an **autonomous execution system** that ensures safety actions are completed in the real world.
 ---
 
