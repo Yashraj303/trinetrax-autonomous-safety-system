@@ -1,0 +1,12 @@
+[
+    {
+        "vehicle": "MH14AB1234",
+        "status": "CRITICAL",
+        "center": "Tata Motors Authorized Service - 2.3 km"
+    },
+    {
+        "vehicle": "MH14AB5246",
+        "status": "SERVICED",
+        "center": "suzuki"
+    }
+]
