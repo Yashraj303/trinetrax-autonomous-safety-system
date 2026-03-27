@@ -138,13 +138,13 @@ TRINETRAX uses structured agents:
 
 # 🔒 Core Innovation
 
-###Traditional systems:
+Traditional systems:
 
 * Provide warnings
 * Offer flexibility
 * Depend on user action
 
-###TRINETRAX:
+TRINETRAX:
 
 * Does not provide delay options
 * Does not expose “safe usage limits”
